@@ -1,0 +1,12 @@
+<!-- 继承母母版不不变的部分 -->
+{% extends "./base.html" %}
+
+<!-- 重写母母版变的部分 -->
+<p style="background-color:yellow;">
+{% block title %} ★★欢迎来到用户登录模块★★ {% endblock %}
+</p>
+
+<!-- 重写母母版变的部分 -->
+{% block content %}
+<p><--  请根据需要选择自己要做的操作</p>
+{% endblock %}

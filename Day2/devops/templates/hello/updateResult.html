@@ -1,0 +1,18 @@
+<!-- 继承母母版不不变的部分 -->
+{% extends "./base.html" %}
+
+<!-- 重写母母版变的部分 -->
+<p style="background-color:yellow;">
+{% block title %} ★★更新结果★★ {% endblock %}
+</p>
+
+<!-- 重写母母版变的部分 -->
+{% block content %}
+
+{% if res %}
+<p>更新成功</p>
+{% else %}
+<p>更新失败</p>
+{% endif %}
+<p><a href="/hello/userlist">返回</a></p>
+{% endblock %}

@@ -1,0 +1,41 @@
+<!-- 继承母母版不不变的部分 -->
+{% extends "./base.html" %}
+
+<!-- 重写母母版变的部分 -->
+<p style="background-color:yellow;">
+{% block title %} ★★欢迎来到用户系统★★ {% endblock %}
+</p>
+
+<!-- 重写母母版变的部分 -->
+{% block content %}
+
+<table border="1">
+    <thead>
+        <tr>
+            <th>编号</th>
+            <th>用户名</th>
+            <th>密码</th>
+            <th>性别</th>
+            <th>操作</th>
+        </tr>
+    </thead>
+    <tbody>
+       {%  for u1 in user %}
+        <tr>
+            <td>{{ u1.id }} </td>
+            <td>{{ u1.name }} </td>
+            <td>********</td>
+            <td>
+                {% if u1.sex %}
+                女
+                {% else %}
+                男
+                {% endif %}
+            </td>
+            <td><a href="/hello/userupdate_view/{{ u1.id }}">更新</a>&nbsp&nbsp&nbsp
+                <a href="/hello/userdelete/{{ u1.id }}">删除</a></td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}
