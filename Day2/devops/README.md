@@ -9,9 +9,9 @@
 
 #### 2.点击查询用户
 
-![search0.png](https://note.youdao.com/yws/res/154/WEBRESOURCE260ac638354a53ac1dd8ee6ae89f5f48)
+![avatar](image/AddUse.png)
 
-![search1.png](https://note.youdao.com/yws/res/148/WEBRESOURCE72bcd18d76530f68be0eafdcfff45c75)
+![search1.png]https://note.youdao.com/yws/res/148/WEBRESOURCE72bcd18d76530f68be0eafdcfff45c75)
 
 ![search_userlist.png](https://note.youdao.com/yws/res/156/WEBRESOURCEa38fb2c00203e461eb0a27e3b7ac01fc)
 
