@@ -5,46 +5,39 @@
 实现的页面如下：
 
 #### 1.用户列表
-![1userlist.png] (https://note.youdao.com/ynoteshare1/index.html?id=8dc4ce0a21a3124004073bce3cf729f3&type=note)
+![avatar](image/1userlist.png)
 
 #### 2.点击查询用户
 
-![avatar](image/AddUse.png)
+![avatar](image/search0.png)
+![avatar](image/search1.png)
+![avatar](image/search_userlist.png)
 
-![search1.png]https://note.youdao.com/yws/res/148/WEBRESOURCE72bcd18d76530f68be0eafdcfff45c75)
-
-![search_userlist.png](https://note.youdao.com/yws/res/156/WEBRESOURCEa38fb2c00203e461eb0a27e3b7ac01fc)
 
 #### 3.点击新增用户
 
-![adduser.png](https://note.youdao.com/yws/res/158/WEBRESOURCEe3b901bbedf63dc6cfb9381f7e4a22cb)
-
-![adduser2.png](https://note.youdao.com/yws/res/160/WEBRESOURCE7a6bca20ed479ac30d65c513825f1fd5)
-
-![addresult.png](https://note.youdao.com/yws/res/162/WEBRESOURCE2b04b27561beb5fef2fbb97d327744c7)
-
-![userlist1.png](https://note.youdao.com/yws/res/210/WEBRESOURCEffc4b67826dd9fe94cfea79c8d3fa588)
+![avatar](image/AddUse.png)
+![avatar](image/Adduser1.png)
+![avatar](image/AddUser2.png)
+![avatar](image/AfterAddUserlist1.png)
 
 #### 4.更新用户
-##### 张晓明行 点 更新
-![张晓明 行更新.png](https://note.youdao.com/yws/res/167/WEBRESOURCEca3005bd67722b02b6754c9493110b16)
-![update.png](https://note.youdao.com/yws/res/169/WEBRESOURCE63dbc220b62401a66fa809668a00e572)
 
-![updateresult.png](https://note.youdao.com/yws/res/171/WEBRESOURCE98760b534b08097c7ca3fd48fd7bd946)
+张晓明行 点 更新
+![avatar](image/Update0.png)
+![avatar](image/Update1.png)
+![avatar](image/UpdateResult.png)
+![avatar](image/UpdateResult1.png)
 
-
-
-![afterupdate.png](https://note.youdao.com/yws/res/175/WEBRESOURCE06b03c9e04a22606aef5095e2a2a4a8a)
 
 #### 4.删除用户
 删除王晓明，王晓明行点删除
 
-![afterupdate.png](https://note.youdao.com/yws/res/175/WEBRESOURCE06b03c9e04a22606aef5095e2a2a4a8a)
+![avatar](image/AfterDelete.png)
+![avatar](image/deleteResult.png)
+![avatar](image/AfterDeleter2.png)
 
 
-![deleteresult.png](https://note.youdao.com/yws/res/173/WEBRESOURCEb291c2afa3dbe71ef1578cb3530e6e2f)
-
-![afterdeleter2.png](https://note.youdao.com/yws/res/214/WEBRESOURCE47df1bbbdb4b6bf8c666b22853f19798)
 
 ## ==**实现过程**==：
 
